@@ -1,2 +1,4 @@
 tmp/toto.txt
 tmp/*
+*.txt
+
